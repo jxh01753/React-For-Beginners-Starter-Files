@@ -1,8 +1,6 @@
 import React from 'react';
 import { getFunName } from '../helpers';
 
-//
-
 class StorePicker extends React.Component {
   myInput = React.createRef();
 
